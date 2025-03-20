@@ -1,2 +1,2 @@
-Git commit -m "Fixed it" (Famous last words).Software developers are the only people who can make something out of nothing… and still break it.exasaad 
+Merge conflicts are a way of life.Git commit -m "Fixed it" (Famous last words).Software developers are the only people who can make something out of nothing… and still break it.exasaad 
 daa
